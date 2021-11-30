@@ -643,3 +643,7 @@ margin-right: 0px !important;
     border-color: var(--bs-primary);
     box-shadow: none;
 }
+
+.modal-dialog{
+    max-width: fit-content;
+}

@@ -3,17 +3,17 @@
     "data": [{
         "id": 1, 
         "title": "Business Strategy",
-        "thumbnail": "thumb1.jpg",
+        "thumbnail": "./images/post1.png",
         "content": "Lorem nc eget mauris in massa blandit lobortis sit amet id risus. Ut rhoncus aliquam finibus. Pellentesque congue, nisi vitae tristique imperdiet, justo libero sagittis ante, et elementum nulla ante sed neque. Aenean sed facilisis purus, ut tincidunt lacus. Curabitur ut nunc diam. Duis non eros purus. Nullam cursus dapibus sollicitudin."
     },{
         "id": 2,
         "title": "Digitalization",
-        "thumbnail": "thumb2.jpg",
+        "thumbnail": "./images/post-2.png",
         "content": "Lorem nc eget mauris in massa blandit lobortis sit amet id risus. Ut rhoncus aliquam finibus. Pellentesque congue, nisi vitae tristique imperdiet, justo libero sagittis ante, et elementum nulla ante sed neque. Aenean sed facilisis purus, ut tincidunt lacus. Curabitur ut nunc diam. Duis non eros purus. Nullam cursus dapibus sollicitudin."
     },{
         "id": 3,
         "title": "Risk assessment",
-        "thumbnail": "thumb3.jpg",
+        "thumbnail": "./images/post-3.png",
         "content": "Lorem nc eget mauris in massa blandit lobortis sit amet id risus. Ut rhoncus aliquam finibus. Pellentesque congue, nisi vitae tristique imperdiet, justo libero sagittis ante, et elementum nulla ante sed neque. Aenean sed facilisis purus, ut tincidunt lacus. Curabitur ut nunc diam. Duis non eros purus. Nullam cursus dapibus sollicitudin."
     }]
 }
