@@ -1,0 +1,38 @@
+{
+    "message" : "success",
+    "data": [{
+        "id": 1, 
+        "title": "Why you have to digitalize in 2021",
+        "thumbnail": "thumb1.jpg",
+        "content": "Lorem nc eget mauris in massa blandit lobortis sit amet id risus. Ut rhoncus aliquam finibus. Pellentesque congue, nisi vitae tristique imperdiet, justo libero sagittis ante, et elementum nulla ante sed neque. Aenean sed facilisis purus, ut tincidunt lacus. Curabitur ut nunc diam. Duis non eros purus. Nullam cursus dapibus sollicitudin."
+    },{
+        "id": 2,
+        "title": "Our internal process and longterm vision",
+        "thumbnail": "thumb2.jpg",
+        "content": "Lorem nc eget mauris in massa blandit lobortis sit amet id risus. Ut rhoncus aliquam finibus. Pellentesque congue, nisi vitae tristique imperdiet, justo libero sagittis ante, et elementum nulla ante sed neque. Aenean sed facilisis purus, ut tincidunt lacus. Curabitur ut nunc diam. Duis non eros purus. Nullam cursus dapibus sollicitudin."
+    },{
+        "id": 3,
+        "title": "Helping the next generation of leaders",
+        "thumbnail": "thumb3.jpg",
+        "content": "Lorem nc eget mauris in massa blandit lobortis sit amet id risus. Ut rhoncus aliquam finibus. Pellentesque congue, nisi vitae tristique imperdiet, justo libero sagittis ante, et elementum nulla ante sed neque. Aenean sed facilisis purus, ut tincidunt lacus. Curabitur ut nunc diam. Duis non eros purus. Nullam cursus dapibus sollicitudin."
+    },
+    {
+        "id": 4,
+        "title": "Why you have to digitalize in 2021",
+        "thumbnail": "thumb4.jpg",
+        "content": "Lorem nc eget mauris in massa blandit lobortis sit amet id risus. Ut rhoncus aliquam finibus. Pellentesque congue, nisi vitae tristique imperdiet, justo libero sagittis ante, et elementum nulla ante sed neque. Aenean sed facilisis purus, ut tincidunt lacus. Curabitur ut nunc diam. Duis non eros purus. Nullam cursus dapibus sollicitudin."
+    },
+    {
+        "id": 5,
+        "title": "Our internal process and longterm vision",
+        "thumbnail": "thumb3.jpg",
+        "content": "Lorem nc eget mauris in massa blandit lobortis sit amet id risus. Ut rhoncus aliquam finibus. Pellentesque congue, nisi vitae tristique imperdiet, justo libero sagittis ante, et elementum nulla ante sed neque. Aenean sed facilisis purus, ut tincidunt lacus. Curabitur ut nunc diam. Duis non eros purus. Nullam cursus dapibus sollicitudin."
+    },
+    {
+        "id": 6,
+        "title": "Our internal process and longterm vision",
+        "thumbnail": "thumb3.jpg",
+        "content": "Lorem nc eget mauris in massa blandit lobortis sit amet id risus. Ut rhoncus aliquam finibus. Pellentesque congue, nisi vitae tristique imperdiet, justo libero sagittis ante, et elementum nulla ante sed neque. Aenean sed facilisis purus, ut tincidunt lacus. Curabitur ut nunc diam. Duis non eros purus. Nullam cursus dapibus sollicitudin."
+    }
+]
+}

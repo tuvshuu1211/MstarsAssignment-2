@@ -1,0 +1,11 @@
+{
+    "message" : "success",
+    "data": {
+        "id": 1, 
+        "title": "Business Strategy",
+        "thumbnail": "thumb1.jpg",
+        "author": "Andrew Johnson",
+        "date": "2021-01-27",
+        "content": "<p>Lorem nc eget mauris in massa blandit lobortis sit amet id risus. Ut rhoncus aliquam finibus. Pellentesque congue, nisi vitae tristique imperdiet, justo libero sagittis ante, et elementum nulla ante sed neque. Aenean sed facilisis purus, ut tincidunt lacus. Curabitur ut nunc diam. Duis non eros purus. Nullam cursus dapibus sollicitudin.</p>"
+    }
+}
