@@ -88,9 +88,9 @@ document.getElementById("subscribe").addEventListener('click', () => {
     fetch(URL, requestOptions)
     .then((response) => {return response.json()})
     .then((data) => {
-        console.log(data);
+        alert(data.message);
     }).catch((error) => {
-        console.log(error)}
+        alert(error.message)}
     )
 }
 )
