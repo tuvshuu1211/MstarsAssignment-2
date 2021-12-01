@@ -637,5 +637,5 @@ margin-right: 0px !important;
 }
 
 .modal-dialog{
-    max-width: fit-content;
+    max-width: 800px;
 }
